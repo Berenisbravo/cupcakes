@@ -3,8 +3,7 @@
 <body bgcolor="pink" text="violet">
 <center><h1>DELICIOSOS CUPCAKES</h1></center><br>
 <center>
-<img src="https://www.bhg.com/thmb/966fT1zajsxuQl5_OVWV6mOHbMg=/1500x0/filters:no_upscale()
-:max_bytes(150000):strip_icc()/R158174-fc2d2016fe184e048cc01ba08878e38b.jpg" width=70% alt="CUPCAKES"><br><br>
+<img src="https://www.deliciosi.com/images/0/4/cupcakes-vainilla-original.jpg" width=70% alt="CUPCAKES"><br><br>
 </center>
 Ingredientes que necesitas:<br>
 Porciones<br>
@@ -18,8 +17,7 @@ Porciones<br>
 4 huevos grandes<br>
 310 ml de leche fresca<br><br>
 <center>
-<img src="https://sallysbakingaddiction.com/wp-content/uploads/2017/06/moist-chocolate-cupcakes-5.j
-pg" width=70% alt="CUPCAKES"><br>
+<img src="https://i.blogs.es/04ca5c/como-hacer-cupcakes-de-chocolate-3-/450_1000.jpg" width=70% alt="CUPCAKES"><br>
 Si quiere saber más de la preparación ¡contactanos ya!<br><br>
 AQUI LES DEJO UNA PEQUEÑA GUIA DE COMO PREPARAR CUPCAKES <br><br>
 <body>
