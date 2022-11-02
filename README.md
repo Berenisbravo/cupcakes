@@ -23,9 +23,7 @@ pg" width=70% alt="CUPCAKES"><br>
 Si quiere saber más de la preparación ¡contactanos ya!<br><br>
 AQUI LES DEJO UNA PEQUEÑA GUIA DE COMO PREPARAR CUPCAKES <br><br>
 <body>
-<iframe width="350" height="315" src="https://www.youtube.com/embed/Iva7YlPn2Ao"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="center"></iframe><br>
+<iframe width="300" height="315" src="https://www.youtube.com/embed/Iva7YlPn2Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="center"></iframe>
 <br>
 <head>
 <a href="https://berenisbravo.github.io/Sucrette/"> VOLVER A LA PÁGINA INICIAL</a><br>
