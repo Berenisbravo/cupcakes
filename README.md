@@ -6,10 +6,6 @@
 <img src="https://www.bhg.com/thmb/966fT1zajsxuQl5_OVWV6mOHbMg=/1500x0/filters:no_upscale()
 :max_bytes(150000):strip_icc()/R158174-fc2d2016fe184e048cc01ba08878e38b.jpg" width=70% alt="CUPCAKES"><br><br>
 </center>
-<center>
-<body>
-<audio src="https://drive.google.com/file/d/18AhXWXD8olOgVv8U3GluE7Hd3aMCnXhS/view?usp=drivesdk.mp3" controls=""></audio>
-</center>
 Ingredientes que necesitas:<br>
 Porciones<br>
 12<br>
